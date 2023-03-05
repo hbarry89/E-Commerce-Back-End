@@ -22,6 +22,7 @@ for their company to compete with other e-commerce companies.
 
 ### Resources :books:
 - Bootcamp Materials
+- Sequelize Documentation: [Associations](https://sequelize.org/docs/v6/core-concepts/assocs/) and [Validations & Constraints](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)
 - Demonstration by TA in class
 - Tutor
 - AskBCS Learning Assistants
