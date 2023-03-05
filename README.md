@@ -8,15 +8,7 @@ for their company to compete with other e-commerce companies.
 
 ## Usage
 
-- [Click here](*) for a video demo of this application.
-
----------------------------
-
-- Screenshots
-
-<img src="./demo-images/demo1.png" width="300" height="300">
-
----------------------------
+- [Click here](https://drive.google.com/file/d/15EUeqvXYXPkuGVn7Gw3GVAptlVuj3ZjR/view) for a video demo of this application.
 
 ## Credit
 
@@ -24,8 +16,8 @@ for their company to compete with other e-commerce companies.
 - Bootcamp Materials
 - Sequelize Documentation: [Associations](https://sequelize.org/docs/v6/core-concepts/assocs/) and [Validations & Constraints](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)
 - Demonstration by TA in class
+- Insomnia file was provided by TA in class that has testing examples for all methods to all models + URLs .
 - Tutor
-- AskBCS Learning Assistants
 
 ### Assets :sparkles:
 - [dotenv](https://www.npmjs.com/package/dotenv/v/8.2.0) Package
