@@ -16,7 +16,7 @@ for their company to compete with other e-commerce companies.
 - Bootcamp Materials
 - Sequelize Documentation: [Associations](https://sequelize.org/docs/v6/core-concepts/assocs/) and [Validations & Constraints](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)
 - Demonstration by TA in class
-- Insomnia file was provided by TA in class that has testing examples for all methods to all models + URLs .
+- Insomnia file was provided by TA in class that has testing examples for all methods to all models + route URLs .
 - Tutor
 
 ### Assets :sparkles:
@@ -28,6 +28,7 @@ for their company to compete with other e-commerce companies.
 
 ### Applications Used :gear:
 - VS Code
+- Insomnia
 - Screencastify
 
 <p align="center">Thank you for visiting! :ribbon:</p>
