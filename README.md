@@ -10,10 +10,27 @@ for their company to compete with other e-commerce companies.
 
 - [Click here](https://drive.google.com/file/d/1ES7HKTeps9W66MsPf7iUR-ZOR_3unEFc/view) for a video demo of this application.
 
+**In order to start the server and sync Sequelize models to the MySQL database:**
+
+- In MySQL Shell enter the following commands:
+1. To create databse:
+
+```source schema.sql```
+
+2. To seed database with test data:
+
+```npm run seed```
+
+- In sever level terminal enter the following command:
+3. To invoke the application:
+
+```npm run start```
+
 ## Credit
 
 ### Resources :books:
 - Bootcamp Materials
+- Unit 13 Mini-Project
 - Sequelize Documentation: [Associations](https://sequelize.org/docs/v6/core-concepts/assocs/) and [Validations & Constraints](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)
 - Demonstration by TA in class
 - Insomnia file was provided by TA in class that has testing examples for all methods to all models + route URLs.
