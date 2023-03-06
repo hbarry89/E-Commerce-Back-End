@@ -10,21 +10,25 @@ for their company to compete with other e-commerce companies.
 
 - [Click here](https://drive.google.com/file/d/1ES7HKTeps9W66MsPf7iUR-ZOR_3unEFc/view) for a video demo of this application.
 
+-----------------------
+
 **In order to start the server and sync Sequelize models to the MySQL database:**
 
-- In MySQL Shell enter the following commands:
+- In MySQL Shell (in db folder level), enter the following commands:
 1. To create databse:
 
 ```source schema.sql```
 
+- In server level terminal, enter the following command:
 2. To seed database with test data:
 
 ```npm run seed```
 
-- In sever level terminal enter the following command:
 3. To invoke the application:
 
 ```npm run start```
+
+-----------------------
 
 ## Credit
 
