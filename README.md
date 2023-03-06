@@ -14,12 +14,12 @@ for their company to compete with other e-commerce companies.
 
 **In order to start the server and sync Sequelize models to the MySQL database:**
 
-- In MySQL Shell (in db folder level), enter the following commands:
-1. To create databse:
+- In MySQL Shell (in db folder level), enter the following command:
+1. To create database:
 
 ```source schema.sql```
 
-- In server level terminal, enter the following command:
+- In server level terminal, enter the following commands:
 2. To seed database with test data:
 
 ```npm run seed```
