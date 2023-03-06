@@ -8,7 +8,7 @@ for their company to compete with other e-commerce companies.
 
 ## Usage
 
-- [Click here](https://drive.google.com/file/d/15EUeqvXYXPkuGVn7Gw3GVAptlVuj3ZjR/view) for a video demo of this application.
+- [Click here](https://drive.google.com/file/d/1ES7HKTeps9W66MsPf7iUR-ZOR_3unEFc/view) for a video demo of this application.
 
 ## Credit
 
